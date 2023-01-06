@@ -178,7 +178,7 @@ body {
       }
       @media screen and (max-width: 992px) {
         .contact-cont {
-        padding: 1px;
+        padding: 20px;
         }
 
       #contact-cont-bg {
