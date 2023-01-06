@@ -176,6 +176,10 @@ body {
         background-repeat: no-repeat;
         background-size: cover;
       }
+      @media screen and (max-width: 992px) {
+        .contact-cont {
+        padding: 1px;
+        }
 
       #contact-cont-bg {
         background-color: black;
@@ -187,6 +191,11 @@ body {
       .contact-cont-bg-dc {
         padding: 50px;
       }
+     
+     @media screen and (max-width: 992px) {
+        .contact-cont-bg-dc {
+        padding: 1px;
+        }
 
       .footer-cont {
         padding-top: 30px;
