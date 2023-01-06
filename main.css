@@ -178,7 +178,7 @@ body {
       }
       @media screen and (max-width: 992px) {
         .contact-cont {
-        padding: 20px;
+        padding: 10px;
         }
 
       #contact-cont-bg {
@@ -194,7 +194,7 @@ body {
      
      @media screen and (max-width: 992px) {
         .contact-cont-bg-dc {
-        padding: 1px;
+        padding: 10px;
         }
 
       .footer-cont {
