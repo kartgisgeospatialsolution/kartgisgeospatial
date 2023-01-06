@@ -90,8 +90,7 @@ body {
 
       @media screen and (max-width: 992px) {
         .expertise-destcription {
-        text-align: justify;
-        text-align-last: center;
+        text-align: center;
         font-size: 20px;
         color: white;
         }
